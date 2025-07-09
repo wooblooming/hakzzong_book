@@ -9,8 +9,8 @@ api_cost_test_report_*.txt
 # 원천파일은 제외하고 생성된 결과 파일들만 무시
 # (원천파일의 xlsx는 버전 관리에 포함)
 !원천파일/
-book_recommendations_*.json
-final_book_recommendations_*.xlsx
+# book_recommendations_*.json
+# final_book_recommendations_*.xlsx
 step1_keywords_only_*.xlsx
 keywords_extraction_*.json
 llm_book_verification_*.json
