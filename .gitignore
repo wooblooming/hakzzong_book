@@ -3,7 +3,6 @@
 설정파일/google-cloud-key.json
 
 # 결과 파일들 (매번 새로 생성되는 파일들)
-결과파일/
 api_usage_report_*.txt
 api_cost_test_report_*.txt
 
